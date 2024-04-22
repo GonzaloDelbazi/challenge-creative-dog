@@ -60,14 +60,14 @@ const styles = StyleSheet.create({
     borderBottomEndRadius: 4.15,
   },
   name: {
-    fontFamily: 'Raleway',
+    fontFamily: 'Raleway-VariableFont_wght',
     fontSize: 14.51,
     fontWeight: '500',
     lineHeight: 14.51,
     textAlign: 'left',
   },
   desc: {
-    fontFamily: 'Raleway',
+    fontFamily: 'Raleway-VariableFont_wght',
     fontSize: 12.44,
     fontWeight: '500',
     lineHeight: 14.51,
@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(5, 0, 255, 1)',
   },
   prize: {
-    fontFamily: 'Barlow',
+    fontFamily: 'Barlow-Regular',
     fontSize: 14.51,
     fontWeight: '400',
     lineHeight: 14.51,
@@ -111,7 +111,7 @@ const styles = StyleSheet.create({
     color: 'black',
   },
   discount: {
-    fontFamily: 'Barlow',
+    fontFamily: 'Barlow-Regular',
     fontSize: 14.51,
     fontWeight: '400',
     lineHeight: 14.51,

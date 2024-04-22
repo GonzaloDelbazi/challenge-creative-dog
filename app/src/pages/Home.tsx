@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
     color: 'white',
     fontSize: 32,
     lineHeight: 40,
-    fontFamily: 'Raleway',
+    fontFamily: 'Raleway-VariableFont_wght',
     textAlign: 'left',
     fontWeight: 'bold',
   },
@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   textButton: {
-    fontFamily: 'Raleway',
+    fontFamily: 'Raleway-VariableFont_wght',
     fontSize: 16,
     fontWeight: '700',
     lineHeight: 24,

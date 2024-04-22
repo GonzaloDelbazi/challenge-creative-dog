@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/Barlow-Regular-Regular.ttf",
+      "sha1": "7426e387aea19b486a47f15869a3a8328fac0058"
+    },
+    {
+      "path": "app/assets/fonts/Raleway-VariableFont_wght-VariableFont_wght.ttf",
+      "sha1": "51419d139ba96d998486bc58ba70a69fb9fd7947"
+    }
+  ]
+}

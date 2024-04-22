@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
     gap: 20,
   },
   title: {
-    fontFamily: 'Raleway',
+    fontFamily: 'Raleway-VariableFont_wght',
     fontSize: 32,
     fontWeight: 'bold',
     lineHeight: 40,
@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     color: '#111827',
   },
   desc: {
-    fontFamily: 'Raleway',
+    fontFamily: 'Raleway-VariableFont_wght',
     fontSize: 18,
     fontWeight: '500',
     lineHeight: 26,
@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
   textButton: {
-    fontFamily: 'Raleway',
+    fontFamily: 'Raleway-VariableFont_wght',
     fontSize: 16,
     fontWeight: '700',
     lineHeight: 24,

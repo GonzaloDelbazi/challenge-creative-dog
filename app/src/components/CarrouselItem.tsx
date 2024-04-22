@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     zIndex: 3,
   },
   name: {
-    fontFamily: 'Raleway',
+    fontFamily: 'Raleway-VariableFont_wght',
     fontSize: 15,
     fontWeight: '700',
     lineHeight: 20,
@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     width: 240.86,
   },
   stock: {
-    fontFamily: 'Raleway',
+    fontFamily: 'Raleway-VariableFont_wght',
     fontSize: 11.67,
     fontWeight: '500',
     lineHeight: 20,

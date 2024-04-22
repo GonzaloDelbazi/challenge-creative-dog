@@ -28,10 +28,10 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     fontSize: 18,
     textAlign: 'center',
-    fontFamily: 'verdana',
+    fontFamily: 'Raleway-VariableFont_wght',
   },
   text: {
-    fontFamily: 'roboto',
+    fontFamily: 'Raleway-VariableFont_wght',
     color: 'black',
     fontWeight: 'bold',
     fontSize: 18,
